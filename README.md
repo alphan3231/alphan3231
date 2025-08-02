@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alphanozcan@proton.me**
 
-- My own startup <a href"crasai.com">crasai.com</a>
+- My own startup crasai.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
