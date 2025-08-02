@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alphan Özcan</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **FRC Robot of #6429**
+- 🔭 I’m currently working on my own startup **crasai.com**.
 
 - 📫 How to reach me **alphanozcan@proton.me**
 
-- My own startup crasai.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
