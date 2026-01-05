@@ -154,7 +154,7 @@ const alphan = {
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alphan3231/alphan3231/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -162,11 +162,20 @@ const alphan = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" /> Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/alphan3231/crasai">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=crasai&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+  <a href="https://github.com/alphan3231/chaosProxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=chaosProxy&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/alphan3231/alphan3231">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=alphan3231&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+  <a href="https://github.com/alphan3231/WareSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=WareSense&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/alphan3231/OpenSight">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=OpenSight&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/alphan3231/AiPentestTool">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=alphan3231&repo=AiPentestTool&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
   </a>
 </div>
 
