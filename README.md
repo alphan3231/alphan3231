@@ -147,6 +147,10 @@ const alphan = {
 <a href="mailto:alphanozcan@proton.me">
   <img src="https://img.shields.io/badge/Email_Me-alphanozcan%40proton.me-6366F1?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
+<br/>
+<a href="https://buymeacoffee.com/alphanozcan">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
 
 </div>
 
