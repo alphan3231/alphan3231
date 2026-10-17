@@ -9,7 +9,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=alphan3231&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.kaggle.com/alphanzcan"><img src="https://img.shields.io/badge/%F0%9F%93%88_My_Competitions-Kaggle-20beff?style=for-the-badge&labelColor=1a1a2e" alt="Kaggle" /></a>
+  <a href="https://alphan.gen.tr"><img src="https://img.shields.io/badge/%F0%9F%8C%90_My_Site-alphan.gen.tr-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="alphan.gen.tr" /></a>
 </p>
 
 <!-- Social Links with Animated Icons -->
@@ -108,6 +108,8 @@ const alphan = {
 | 🧅 [**chaosProxy**](https://github.com/alphan3231/chaosProxy) | Chaos-engineering proxy in Go |
 | 🔎 [**AiPentestTool**](https://github.com/alphan3231/AiPentestTool) | AI-assisted pentesting automation |
 
+**Selected work & recognition** → [alphan.gen.tr](https://alphan.gen.tr) — ECG classification (TEKNOFEST AI in Healthcare, team captain), underwater edge-AI (YOLOv11 + Raspberry Pi 5 + Coral TPU), Robotaxi sensor fusion, FarmerAI (Diamond Challenge), WRO earthquake wristband. Awards: FRC Engineering Inspiration 2025, WRO Turkey 2×, Code Night İzmir 2nd, Conrad Innovator 2×.
+
 <br/>
 
 <a href="https://github.com/alphan3231?tab=repositories">
@@ -126,6 +128,9 @@ const alphan = {
   <b>I'm always open to interesting conversations and collaboration opportunities!</b>
 </p>
 
+<a href="https://alphan.gen.tr">
+  <img src="https://img.shields.io/badge/My_Website-alphan.gen.tr-0f172a?style=for-the-badge&logo=safari&logoColor=6366F1" alt="alphan.gen.tr"/>
+</a>
 <a href="mailto:alphanozcan@proton.me">
   <img src="https://img.shields.io/badge/Email_Me-alphanozcan%40proton.me-6366F1?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
